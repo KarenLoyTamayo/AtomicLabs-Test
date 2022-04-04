@@ -23,7 +23,7 @@ html{
 }
 
 body{
-    background-image: url(assets/backgrounds/background.png);
+    background-image: url(../assets/backgrounds/background.png);
     background-size: cover;
     position: relative;
     padding-bottom: 100vh;
